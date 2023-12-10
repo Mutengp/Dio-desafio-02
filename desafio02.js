@@ -28,4 +28,3 @@ function calcularNivel(vitorias, derrotas) {
 let resultado = calcularNivel(70, 20); // Passando a quantidade de vitórias e derrotas
 console.log(resultado); // Exibindo o resultado no console
 
-    
